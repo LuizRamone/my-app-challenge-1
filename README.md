@@ -2,7 +2,7 @@
 I had some trouble with eslint version i dont know if is a Windows problem but both my projects needed in order to install the dependencies with yarn add the flag (yarn install --ignore-engines) to stop the version conflict issue
 
 # Jest
-my jest was not installed globally so, i run my tests with (node_modules/.bin/jest) instead
+my jest was not installed globally so i run my tests with (node_modules/.bin/jest) instead
 
 # usage of the filter function
 
